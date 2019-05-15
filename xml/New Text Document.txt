@@ -1,0 +1,26 @@
+<node> 
+<id> 1 </id>
+<name> A </name>
+<depend> B </depend>
+<depend> D </depend>
+</node>
+<node>
+<id> 2 </id>
+<name> B </name>
+<depend> C </depend>
+</node>
+<node>
+<id> 3 </id>
+<name> C </name>
+</node>
+<node>
+<id> 4 </id>
+<name> D </name>
+<depend> B </depend>
+</node>
+
+
+
+
+
+
